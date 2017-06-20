@@ -526,6 +526,7 @@
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+- [NextCloud](https://github.com/andreasjacobsen93/awesome-nextcloud) - Awesome self-hosted cloud
 
 
 ## License
